@@ -1,0 +1,6 @@
+static web page with 
+
+navbar : search bar as well with button
+3 to 4 images in carousel 
+at bottom pagenation.
+grid section any content or any image.
